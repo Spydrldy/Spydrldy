@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spydrldy
+- 👋 Hi, I’m @Spydrldy (76 years young)
 - 👀 I’m interested in exercising my brain.
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on CS50
